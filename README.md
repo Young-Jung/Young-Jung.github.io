@@ -8,7 +8,7 @@
 - Established a Security Information and Event Management (SIEM) infrastructure leveraging Wazuh to oversee and analyze security alerts and events effectively.
 - Engineered tailored security alerts to initiate responses within the SIEM framework, enhancing the detection and response capabilities of the system.
 
-### Mastercard Cybersecurity virtual experience program @ Mastercard (Forage)
+### <a href="https://github.com/Young-Jung/security_awareness_training">Mastercard Cybersecurity virtual experience program @ Mastercard (Forage)</a>
 - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
 - Helped identify and report security threats such as phishing 
 - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
