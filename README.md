@@ -1,13 +1,8 @@
 # Cyber Security Analyst & Software Developer
 
-#### Technical Skills: SIEM, SQL, C#, Python
+#### Technical Skills: IDS, Firewall, SIEM, EDR, Anti-Virus, Cloud-based Data Platforms, Vulnerability Assessment, Windows, C#, Python
 
 ## Projects
-### <a href="https://github.com/Young-Jung/SOC-Automation-Lab">SOC Automation Lab</a>
-
-- Established a Security Information and Event Management (SIEM) infrastructure leveraging Wazuh to oversee and analyze security alerts and events effectively.
-- Engineered tailored security alerts to initiate responses within the SIEM framework, enhancing the detection and response capabilities of the system.
-
 ### <a href="https://github.com/Young-Jung/security_awareness_training">Mastercard Cybersecurity virtual experience program @ Mastercard (Forage)</a>
 - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
 - Helped identify and report security threats such as phishing 
@@ -17,6 +12,15 @@
 - Analyzed a Large Dataset of Fraud in Financial Payment Services
 - Applied Application Security Fundamentals and Built an Email Classifier to mitigate spam
 
+### <a href="https://github.com/Young-Jung/SOC-Automation-Lab">SOC Automation Lab</a>
+
+- Established a Security Information and Event Management (SIEM) infrastructure leveraging Wazuh to oversee and analyze security alerts and events effectively.
+- Engineered tailored security alerts to initiate responses within the SIEM framework, enhancing the detection and response capabilities of the system.
+
+### <a href="https://github.com/Young-Jung/Home-Lab">Home Lab</a>
+- Installed and configured pfSense firewall to segment our private home lab network
+
+  
 ## Work Experience
 **Cyber Security Analyst @ Evolve Security Academy (_May 2023 - Present_)**
 - Conducted vulnerability assessments using Nessus on critical infrastructure, identifying vulnerabilities and reducing risk.
@@ -39,7 +43,7 @@
 - Cisco - Understanding Cisco Network Devices, Understanding Cisco Network Security
 
 ## Tools
-- Wireshark
+- Nmap, Nessus, Wireshark
 
-## Tools
+## Publications
 - <a href="https://young-blog.herokuapp.com/">Young's Blog</a>
