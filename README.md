@@ -46,4 +46,4 @@
 - Nmap, Nessus, Wireshark
 
 ## Publications
-- <a href="https://young-blog.herokuapp.com/">Young's Blog</a>
+- <a href="https://young-blog.herokuapp.com/" target="_blank">Young's Blog</a>
